@@ -1,0 +1,70 @@
+body {
+  background-color: #ECFDF5;
+
+}
+
+.content {
+  margin-top: 115px;
+  margin-left: 52px;
+}
+
+h1 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+
+}
+
+hr {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+p {
+  font-family: 'inter', sans-serif;
+  font-weight: 400px;
+  font-size: 20px;
+  color: #6B7280;
+}
+
+.btn {
+  padding: 9px 17px 9px 15px;
+  background-color: #273549;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+#btn-1,
+#btn-2 {
+  background-color: #10B981;
+  margin-top: 51px;
+  margin-bottom: 35px;
+  font-weight: 500;
+}
+
+#btn-1 {
+    margin-right: 20px;
+}
+
+#btn-3,
+#btn-4 {
+  width: 211px;
+  height: 39px;
+  color: #10B981;
+}
+
+#btn-3 {
+    margin-right: 20px;
+}
+
+#cta {
+  color: #10B981;
+}
+
+.output-btn {
+    margin-top: 30px;
+}
+
+
+
